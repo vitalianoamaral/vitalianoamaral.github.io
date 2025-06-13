@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Vitaliano"
+title: "Vitaliano de Sousa Amaral"
 author_profile: true
 redirect_from: 
   - /about/
