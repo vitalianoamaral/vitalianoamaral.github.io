@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Your Name / Site Title"
+title                    : "Vitaliano Amaral"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -26,10 +26,10 @@ author:
   name             : "Vitaliano Amaral"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
+  #location         : "Earth"
   employer         : "Red Brick University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "vitalianoamaral@ufpi.edu.br" 
 
   # Academic websites
   academia         : # URL
