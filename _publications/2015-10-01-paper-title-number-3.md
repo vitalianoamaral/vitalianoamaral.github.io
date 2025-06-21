@@ -8,7 +8,7 @@ date: 2022-04-28
 venue: 'Journal of Global Optimization'
 slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
 paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+citation: 'Amaral, V.S., Andreani, R., Birgin, E.G. (2022). &quot;Paper On complexity and convergence of high-order coordinate descent algorithms for smooth nonconvex box-constrained minimization Number 3.&quot; <i>Journal 1</i>. 1(3).'
 ---
 
 
