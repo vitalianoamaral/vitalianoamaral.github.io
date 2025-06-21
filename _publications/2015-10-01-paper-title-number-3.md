@@ -3,7 +3,7 @@ title: "On complexity and convergence of high-order coordinate descent algorithm
 collection: publications
 category: manuscripts
 permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
+#excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
 date: 2022-04-28
 venue: 'Journal of Global Optimization'
 slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
