@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 3"
+title: "On complexity and convergence of high-order coordinate descent algorithms for smooth nonconvex box-constrained minimization"
 collection: publications
 category: manuscripts
 permalink: /publication/2015-10-01-paper-title-number-3
