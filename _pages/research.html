@@ -5,35 +5,28 @@ permalink: /research/
 author_profile: true
 ---
 
+## Research
+
+### Research Interests
+
+- lll  
+- kkk  
+
+---
+
+### [Talks / Slides de apresentações](#)
+
+## Submitted articles
+
+1. **jjj** [<a href="LINK_DO_PREPRINT_1">preprint</a>]  
+   Amaral, V. S., Lopes, J. O., Santos, P. S. M., & Silva, G. N. (2024). "On the complexity of a quadratic regularization algorithm for minimizing nonsmooth and nonconvex functions." Optimization Methods and Software, 1–23  
+
+2. **titulo** [<a href="LINK_DO_PREPRINT_2">preprint</a>]  
+   Amaral, V. S., Lopes, J. O., Santos, P. S. M., & Silva, G. N. (2024). "On the complexity of a quadratic regularization algorithm for minimizing nonsmooth and nonconvex functions." Optimization Methods and Software, 1–23  
+
+---
+
 {% if site.author.googlescholar %}
   <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %}
 {% include base_path %}
-
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-     {% unless title_shown %}
-  <h2>{{ category[1].title }}</h2><hr />
-  <ol>
-  {% assign title_shown = true %}
-{% endunless %}
-<li>{% include archive-single.html %}</li>
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  <ol>
-  {% for post in site.publications reversed %}
-    <li>
-      {% include archive-single.html %}
-    </li>
-  {% endfor %}
-</ol>
-{% endif %}
-
-
