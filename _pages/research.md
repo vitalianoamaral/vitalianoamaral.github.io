@@ -8,7 +8,6 @@ author_profile: true
   <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %}
 {% include base_path %}
----
 # Optimization Research
 ## Submitted articles
 
@@ -21,5 +20,6 @@ author_profile: true
 1. **Terceiro artigo** [<a href="#">preprint</a>]  
    Fulano, Ciclano (2023). *Mais um título*. Revista, 5–9 
 
----
+
 # Research in Mathematics Education
+---
