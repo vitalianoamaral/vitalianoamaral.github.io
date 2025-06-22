@@ -18,4 +18,5 @@ author_profile: true
 2. **titulo** [<a href="LINK_DO_PREPRINT_2">preprint</a>]  
    Amaral, V. S., Lopes, J. O., Santos, P. S. M., & Silva, G. N. (2024). "On the complexity of a quadratic regularization algorithm for minimizing nonsmooth and nonconvex functions." Optimization Methods and Software, 1–23  
 
+## Research in Mathematics Education
 ---
