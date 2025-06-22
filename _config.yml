@@ -83,7 +83,8 @@ publication_category:
     title: 'Books'
   manuscripts:
     title: 'Journal Articles' 
-    title: 'Journal Articles rr'
+  education:
+    title: 'Education Articles'
   conferences:
     title: 'Conference Papers'
 
