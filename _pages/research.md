@@ -8,9 +8,8 @@ author_profile: true
   <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %}
 {% include base_path %}
-## Researchkk
 ---
-
+## Optimization Research
 ## Submitted articles
 
 1. **jjj** [<a href="LINK_DO_PREPRINT_1">preprint</a>]  
