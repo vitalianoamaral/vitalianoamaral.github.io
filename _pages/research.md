@@ -18,8 +18,7 @@ author_profile: true
 1. **Segundo artigo** [<a href="#">preprint</a>]  
    Fulano, Ciclano (2024). *Outro título*. Revista, 11–45
 
-1. **Terceiro artigo** [<a href="#">preprint</a>]  
-   Fulano, Ciclano (2023). *Mais um título*. Revista, 5–9 
+1. Amaral, V.S., Andreani, R., Birgin, E.G. et al. On complexity and convergence of high-order coordinate descent algorithms for smooth nonconvex box-constrained minimization. J Glob Optim 84, 527–561 (2022). 
 
 
 # Research in Mathematics Education
