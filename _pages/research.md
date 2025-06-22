@@ -12,11 +12,14 @@ author_profile: true
 # Optimization Research
 ## Submitted articles
 
-1. **jjj** [<a href="LINK_DO_PREPRINT_1">preprint</a>]  
-   <span style="margin-left: 1em;">Amaral, V. S., Lopes, J. O., Santos, P. S. M., & Silva, G. N. (2024). "On the complexity of a quadratic regularization algorithm for minimizing nonsmooth and nonconvex functions." *Optimization Methods and Software*, 1–23</span>
+1. **Primeiro artigo** [<a href="#">preprint</a>]  
+   Fulano, Ciclano (2025). *Título*. Revista, 1–23
 
-2. **titulo** [<a href="LINK_DO_PREPRINT_2">preprint</a>]  
-   Amaral, V. S., Lopes, J. O., Santos, P. S. M., & Silva, G. N. (2024). "On the complexity of a quadratic regularization algorithm for minimizing nonsmooth and nonconvex functions." Optimization Methods and Software, 1–23  
+1. **Segundo artigo** [<a href="#">preprint</a>]  
+   Fulano, Ciclano (2024). *Outro título*. Revista, 11–45
 
-## Research in Mathematics Education
+1. **Terceiro artigo** [<a href="#">preprint</a>]  
+   Fulano, Ciclano (2023). *Mais um título*. Revista, 5–9 
+
+# Research in Mathematics Education
 ---
