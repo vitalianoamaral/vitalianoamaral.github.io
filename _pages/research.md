@@ -21,5 +21,5 @@ author_profile: true
 1. **Terceiro artigo** [<a href="#">preprint</a>]  
    Fulano, Ciclano (2023). *Mais um título*. Revista, 5–9 
 
-# Research in Mathematics Education
 ---
+# Research in Mathematics Education
