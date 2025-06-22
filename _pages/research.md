@@ -9,7 +9,7 @@ author_profile: true
 {% endif %}
 {% include base_path %}
 ---
-## Optimization Research
+# Optimization Research
 ## Submitted articles
 
 1. **jjj** [<a href="LINK_DO_PREPRINT_1">preprint</a>]  
