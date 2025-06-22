@@ -4,7 +4,10 @@ title: "Research"
 permalink: /research/
 author_profile: true
 ---
-
+{% if site.author.googlescholar %}
+  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
+{% endif %}
+{% include base_path %}
 ## Research
 
 ### Research Interests
@@ -25,8 +28,3 @@ author_profile: true
    Amaral, V. S., Lopes, J. O., Santos, P. S. M., & Silva, G. N. (2024). "On the complexity of a quadratic regularization algorithm for minimizing nonsmooth and nonconvex functions." Optimization Methods and Software, 1–23  
 
 ---
-
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
-{% include base_path %}
