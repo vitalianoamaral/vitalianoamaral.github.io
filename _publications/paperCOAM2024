@@ -5,7 +5,7 @@ category: manuscripts
 #permalink: /publication/On complexity and convergence of high-order coordinate descent algorithms for smooth nonconvex box-constrained minimization
 #excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
 date: 2024-03-1
-venue: 'Computational and Applied Mathematics'
+#venue: 'Computational and Applied Mathematics'
 #slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
 #paperurl: 'http://academicpages.github.io/files/paper3.pdf'
 citation: 'Amaral, V. S., Santos, P. S. M., Silva, G. N. et al. &quot;A Quasi-Newton method for solving generalized equations by using a Kantorovich approach.&quot; <i> Comp. Appl. Math. 43, 104 (2024). <a href="https://doi.org/10.1007/s40314-024-02608-7 ">DOI</a>'
