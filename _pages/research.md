@@ -23,6 +23,8 @@ author_profile: true
 
 ## Articles accepted for publication
 
+1. **V. S. Amaral.** *A partially derivative-free Cyclic Block Coordinate Descent method for nonseparable composite optimization.* Mathematical Modelling and Analysis. Mathematical Modelling and Analysis. (2025).
+
 
 # Research in mathematics education
 ## Published articles
