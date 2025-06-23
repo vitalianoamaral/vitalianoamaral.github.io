@@ -14,9 +14,9 @@ author_profile: true
 
 1. **Amaral, V. S., Lopes, J. O., Santos, P. S. M., & Silva, G. N. (2024).** *On the complexity of a quadratic regularization algorithm for minimizing nonsmooth and nonconvex functions*. Optimization Methods and Software, 1–23. [https://doi.org/10.1080/10556788.2024.2368578](https://doi.org/10.1080/10556788.2024.2368578)
 
-1. **Amaral, V.S., Santos, P.S.M., Silva, G.N. et al.** *A Quasi-Newton method for solving generalized equations by using a Kantorovich approach*. Comp. Appl. Math. 43, 104 (2024). [https://doi.org/10.1007/s40314-024-02608-7](https://doi.org/10.1007/s40314-024-02608-7) 
+1. **Amaral, V.S., Santos, P.S.M., Silva, G.N., SOUZA, S. S.** *A Quasi-Newton method for solving generalized equations by using a Kantorovich approach*. Comp. Appl. Math. 43, 104 (2024). [https://doi.org/10.1007/s40314-024-02608-7](https://doi.org/10.1007/s40314-024-02608-7) 
 
-1. **Amaral, V.S., Andreani, R., Birgin, E.G. et al.** *On complexity and convergence of high-order coordinate descent algorithms for smooth nonconvex box-constrained minimization*. J Glob Optim 84, 527–561 (2022). 
+1. **Amaral, V.S., Andreani, R., Birgin, E.G., MARCONDES, D. S., MARTÍNEZ, J. M.** *On complexity and convergence of high-order coordinate descent algorithms for smooth nonconvex box-constrained minimization*. J Glob Optim 84, 527–561 (2022). 
  [https://doi.org/10.1007/s10898-022-01168-6](https://doi.org/10.1007/s10898-022-01168-6) 
 
 
