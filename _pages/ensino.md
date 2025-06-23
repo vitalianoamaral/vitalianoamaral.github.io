@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "CV"
-permalink: /cv/
+title: "Ensino"
+permalink: /ensino/
 author_profile: true
 ---
 
@@ -36,5 +36,5 @@ Skills
   * Sub-skill 2.2
   * Sub-skill 2.3
 * Skill 3
-## [Disciplinas Ministradas](/cv/disciplinas/)
+## [Disciplinas Ministradas](/ensino/disciplinasg/)
 Clique no link acima para ver a lista de disciplinas ministradas.
