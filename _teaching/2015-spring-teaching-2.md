@@ -9,7 +9,6 @@ location: "City, Country"
 ---
 
 Graduação
-======
 - Álgebra linear aplicada à economia
 - Álgebra linear e geometria analítica
 - Álgebra linear I - M
@@ -32,6 +31,7 @@ Graduação
 - Métodos numéricos
 - Resolução de problemas e textos matemáticos
 - Variáveis complexas
+======
 
 
 Heading 2
