@@ -1,11 +1,11 @@
 ---
 title: "Graduação"
 collection: teaching
-type: "Undergraduate course"
+type: "Graduação"
 permalink: /teaching/2014-spring-teaching-2
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "Departamento de matemática - UFPI"
+date: u-01-01
+location: "Teresina, Brazil"
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.
