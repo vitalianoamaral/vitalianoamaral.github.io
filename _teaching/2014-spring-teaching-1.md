@@ -1,6 +1,7 @@
 ---
 title: "Pós Graduação"
 collection: teaching
+Date: 8
 permalink: /teaching/2014-spring-teaching-1
 ---
 
