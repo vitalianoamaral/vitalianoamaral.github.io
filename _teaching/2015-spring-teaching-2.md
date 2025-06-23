@@ -12,7 +12,7 @@ This is a description of a teaching experience. You can use markdown like any ot
 
 Graduação
 ======
- Álgebra linear aplicada à economia
+- Álgebra linear aplicada à economia
 
 Álgebra linear e geometria analítica
 
