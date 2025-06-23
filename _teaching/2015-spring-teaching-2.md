@@ -8,7 +8,8 @@ date: 2015-01-01
 location: "City, Country"
 ---
 
-**Disciplinas ministradas**
+Disciplinas ministradas
+======
 - Álgebra linear aplicada à economia
 - Álgebra linear e geometria analítica
 - Álgebra linear I - M
@@ -32,9 +33,6 @@ location: "City, Country"
 - Resolução de problemas e textos matemáticos
 - Variáveis complexas
   
-======
-
-
 Heading 2
 ======
 
