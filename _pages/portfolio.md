@@ -1,7 +1,9 @@
 ---
 layout: archive
-title: "Teste"
-permalink: /teste/
+title: "Portfolio
+"
+permalink: /portfolio
+/
 author_profile: true
 ---
 
