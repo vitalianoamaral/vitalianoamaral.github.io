@@ -8,7 +8,7 @@ date: 2015-01-01
 location: "City, Country"
 ---
 
-Graduação
+**Disciplinas ministradas**
 - Álgebra linear aplicada à economia
 - Álgebra linear e geometria analítica
 - Álgebra linear I - M
@@ -31,6 +31,7 @@ Graduação
 - Métodos numéricos
 - Resolução de problemas e textos matemáticos
 - Variáveis complexas
+  
 ======
 
 
