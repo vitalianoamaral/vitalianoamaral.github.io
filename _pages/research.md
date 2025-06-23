@@ -10,9 +10,9 @@ author_profile: true
 {% include base_path %}
 
 # Optimization Research
-## Submitted articles
+## Published articles
 
-1. **Amaral. V. S.; Santos, P. S. M. ; Silva, G. N ; Souza, S. S.** *A modified Newton-secant method for solving nonsmooth generalized equations.* Mathematical Modelling and Analysis, v. 29, p. 347-366, 2024. [https://doi.org/10.3846/mma.2024.18680](https://doi.org/10.3846/mma.2024.18680 )
+1. **Amaral. V. S.; Santos, P. S. M.; Silva, G. N; Souza, S. S.** *A modified Newton-secant method for solving nonsmooth generalized equations.* Mathematical Modelling and Analysis, v. 29, p. 347-366, 2024. [https://doi.org/10.3846/mma.2024.18680](https://doi.org/10.3846/mma.2024.18680 )
 
 1. **Amaral, V. S., Lopes, J. O., Santos, P. S. M., & Silva, G. N. (2024).** *On the complexity of a quadratic regularization algorithm for minimizing nonsmooth and nonconvex functions*. Optimization Methods and Software, 1–23. [https://doi.org/10.1080/10556788.2024.2368578](https://doi.org/10.1080/10556788.2024.2368578)
 
@@ -23,4 +23,7 @@ author_profile: true
 
 
 # Research in Mathematics Education
+## Published articles
+
+1. **Amaral, Vitaliano; PlacidoO, Thiago; Travaglia, Marcos.** *Conectando teoria e prática no ensino de matemática no ensino médio através do método da secante.* PROFESSOR DE MATEMÁTICA ONLINE, v. 13, p. 1, 2025. [https://doi.org/10.21711/2319023x2025/pmo1302](https://doi.org/10.21711/2319023x2025/pmo1302) 
 ---
