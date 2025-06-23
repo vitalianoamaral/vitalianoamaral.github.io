@@ -12,7 +12,28 @@ This is a description of a teaching experience. You can use markdown like any ot
 
 Pós graduação - Mestrado Profissional(PROFMAT)
 ======
-pogejgupeov
+- Álgebra linear aplicada à economia
+- Álgebra linear e geometria analítica
+- Álgebra linear I - M
+- Álgebra superior I
+- Análise convexa
+- Análise real I
+- Cálculo diferencial e integral I
+- Cálculo diferencial e integral II
+- Cálculo diferencial e integral III
+- Cálculo diferencial e integral IV
+- Cálculo II para licenciatura em ciências da natureza
+- Elementos de matemática I
+- Elementos de matemática II
+- Equações diferenciais ordinárias
+- Fundamentos de matemática elementar I
+- Geometria analítica
+- História da matemática
+- Matemática aplicada as ciências biológicas
+- Matemática comercial e financeira
+- Métodos numéricos
+- Resolução de problemas e textos matemáticos
+- Variáveis complexas
 
 Heading 2
 ======
