@@ -1,5 +1,5 @@
 ---
-title: "Cursos ministrados na Universidade Federal do Piauí"
+title: "Cursos ministrados"
 collection: teaching
 type: "Workshop"
 permalink: /teaching/2015-spring-teaching-1
