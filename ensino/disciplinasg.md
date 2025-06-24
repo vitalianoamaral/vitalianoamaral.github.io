@@ -4,17 +4,29 @@ title: "Disciplinas Ministradas"
 permalink: /ensino/disciplinasg/
 author_profile: true
 ---
-
-# Disciplinas Ministradas
-
 ### Graduação (UFPI)
-- Cálculo I – 2025.1  
-- Álgebra Linear – 2024.2  
-- Geometria Analítica – 2023.2
-
-### Pós-Graduação (UFPI)
-- Otimização Não Linear – 2025  
-- Métodos Numéricos – 2024
+- Álgebra linear aplicada à economia
+- Álgebra linear e geometria analítica
+- Álgebra linear I - M
+- Álgebra superior I
+- Análise convexa
+- Análise real I
+- Cálculo diferencial e integral I
+- Cálculo diferencial e integral II
+- Cálculo diferencial e integral III
+- Cálculo diferencial e integral IV
+- Cálculo II para licenciatura em ciências da natureza
+- Elementos de matemática I
+- Elementos de matemática II
+- Equações diferenciais ordinárias
+- Fundamentos de matemática elementar I
+- Geometria analítica
+- História da matemática
+- Matemática aplicada as ciências biológicas
+- Matemática comercial e financeira
+- Métodos numéricos
+- Resolução de problemas e textos matemáticos
+- Variáveis complexas
 
 ---
 
