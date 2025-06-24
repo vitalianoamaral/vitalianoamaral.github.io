@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Disciplinas Ministradas"
-permalink: /ensino/disciplinasg/
+permalink: /ensino/disciplinaspg/
 author_profile: true
 ---
 ### Mestrado Profissional - PROFMAT (UFPI)
