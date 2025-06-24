@@ -11,7 +11,7 @@ Clique no link acima para ver a lista de disciplinas ministradas no ensino de gr
 Clique no link acima para.............
 # PÓS GRADUAÇÃO
 # Mestrado Profissional - PROFMAT (UFPI)
-## [Disciplinas Ministradas](/ensino/disciplinasg/)
+## [Disciplinas Ministradas](/ensino/disciplinaspg/)
 Clique no link acima para ver a lista de disciplinas ministradas no ensino de pós graduação.
 ## Orientações
 ## Coorientações
