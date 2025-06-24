@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Disciplinas Ministradas"
-permalink: /cv/disciplinasg/
+permalink: /ensino/disciplinasg/
 author_profile: true
 ---
 
