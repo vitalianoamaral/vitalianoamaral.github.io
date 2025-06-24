@@ -36,5 +36,5 @@ Skills
   * Sub-skill 2.2
   * Sub-skill 2.3
 * Skill 3
-## [Disciplinas Ministradas](/ensino/disciplinasg/)
+## [Disciplinas Ministradas](/cv/disciplinasg/)
 Clique no link acima para ver a lista de disciplinas ministradas.
