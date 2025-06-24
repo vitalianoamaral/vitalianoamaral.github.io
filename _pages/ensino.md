@@ -6,33 +6,10 @@ author_profile: true
 ---
 
 ## Graduação
-
 ## [Disciplinas Ministradas](/ensino/disciplinasg/)
 Clique no link acima para ver a lista de disciplinas ministradas.
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+## Pós graduação
+## [Disciplinas Ministradas](/ensino/disciplinasg/)
+Clique no link acima para ver a lista de disciplinas ministradas.
 
