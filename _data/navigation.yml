@@ -20,8 +20,8 @@ main:
   #- title: "Teste"
   #  url: /teste/
     
-  #- title: "Ensino"
-  #  url: /cv/
+  - title: "Ensino"
+    url: /cv/
     
   # - title: "CV"
   #   url: /cv-json/
