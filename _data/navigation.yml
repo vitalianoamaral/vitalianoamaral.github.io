@@ -21,7 +21,7 @@ main:
   #  url: /teste/
     
   - title: "Ensino"
-    url: /ensino/
+    url: /cv/
     
   # - title: "CV"
   #   url: /cv-json/
