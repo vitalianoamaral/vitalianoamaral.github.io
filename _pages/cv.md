@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Ensino"
-permalink: /ensino/
+permalink: /cv/
 author_profile: true
 ---
 
