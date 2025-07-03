@@ -15,5 +15,7 @@ Clique no link acima para.............
 ## [Disciplinas Ministradas](/ensino/disciplinaspg/)
 Clique no link acima para ver a lista de disciplinas ministradas no ensino de pós graduação.
 ## Orientações
+**Cocluidas**
+- VALRILENE MOURAO DA SILVA. *O GeoGebra como Ferramenta de Apoio ao Ensino e à Aprendizagem de Funções.* 2025. Dissertação - Universidade Federal do Piauí
 ## Coorientações
 
