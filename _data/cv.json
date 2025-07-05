@@ -24,6 +24,11 @@
         "url": "http://orcid.org/yourorcidurl"
       },
       {
+  "network": "Lattes",
+  "username": "",
+  "url": "http://lattes.cnpq.br/1004102761400082"
+}
+      {
         "network": "GitHub",
         "username": "academicpages",
         "url": "https://github.com/academicpages"
