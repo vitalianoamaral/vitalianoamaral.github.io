@@ -12,12 +12,13 @@ author_profile: true
 - Análise convexa
 - Análise real I
 - Cálculo diferencial e integral I
-- Cálculo diferencial e integral II
+- Cálculo diferencial e integral II-CT
+  - [Notas de Aula](/files/Cálculo dif e int II CT.pdf)
 - Cálculo diferencial e integral III
 - Cálculo diferencial e integral IV
 - Cálculo II para licenciatura em ciências da natureza
 - Elementos de matemática I
-   - [Elementos de matemática I](/files/Elementos de Matemática.pdf)
+   - [Notas de Aula](/files/Elementos de Matemática.pdf)
 - Elementos de matemática II
 - Equações diferenciais ordinárias
 - Fundamentos de matemática elementar I
