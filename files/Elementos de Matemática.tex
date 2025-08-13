@@ -1,0 +1,397 @@
+\documentclass[12pt]{book}
+\usepackage{xcolor}
+\usepackage{amssymb,amsfonts,amstext,amsmath, amsthm}
+
+\setcounter{page}{1}
+
+\usepackage{graphicx,geometry}
+\tolerance=8000
+\topmargin=-5mm
+\textheight=220mm
+\textwidth=150mm
+
+\baselineskip=21pt
+\parskip=.1in
+\parindent=0mm
+
+\geometry{verbose,a4paper,tmargin=3cm,bmargin=3cm,%%%%
+	lmargin=3cm,rmargin=3cm,headsep=5mm,footskip=1cm}
+\usepackage{float}
+\usepackage[brazilian]{babel}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{tikz}
+\usetikzlibrary{calc}
+\usepackage{tocbibind} % Para incluir índice no documento
+\usepackage{tikz}
+\usepackage{amsmath, amssymb}
+\newtheorem{theorem}{Theorem}[section]
+\newtheorem{lemma}{Lemma}[section]
+\newtheorem{definition}{Definition}[section]
+\newtheorem{corollary}{Corollary}[section]
+\newtheorem{proposition}{Proposition}[section]
+\newtheorem{remark}{Remark}[section]
+\newtheorem{example}{Example}[section]
+\newtheorem{te}{Teorema}[section]
+\newtheorem{supo}{Suposi\c c\~ao}[section]
+\newtheorem{algo}{Algoritmo}[section]
+\newtheorem{de}{Defini\c c\~ao}[section]
+\newtheorem{pr}{Proposi\c c\~ao}[section] 
+\newtheorem{lema}{Lema}[section] 
+\newtheorem{obs}{Observa\c c\~ao}[section]
+\newtheorem{af}{Afirma\c c\~ao}[section]
+\newtheorem{ex}{Exemplo}[section]
+\newtheorem{prob}{Problema}[section]
+\newtheorem{exer}{Exerc\'icio}[section]
+\newtheorem{cor}{Corol\'ario}[section]
+
+\newcommand{\dsum}{\displaystyle\sum}
+\newcommand{\dlim}{\displaystyle\lim}
+\newcommand{\dmin}{\displaystyle\min}
+\newcommand{\dmax}{\displaystyle\max}
+\newcommand{\ri}{\Rightarrow}
+\newcommand{\ov}{\overline}
+\newcommand{\df}{\Rightarrow}
+\newcommand{\bba}{\begin{eqnarray*}}
+	\newcommand{\eea}{\end{eqnarray*}}
+\newcommand{\soll}{\stackrel{!}{=}}
+\newcommand{\IR}{I\hspace*{-0.15cm}R}
+\newcommand{\ID}{I\hspace*{-0.15cm}D}
+\newcommand{\IZ}{\slash\!\!\!Z}
+\newcommand{\U}{\underline}
+\newcommand{\dst}{\displaystyle}
+\newcommand{\I}{{\cal I}}
+\newcommand{\J}{{\cal J}}
+\newcommand{\A}{{\cal A}}
+\newcommand{\calAt}{{\tilde{\A}}}
+\newcommand{\At}{{\tilde{A}}}
+\newcommand{\gf}{\nabla f}
+\newcommand{\T}{{\cal T}}
+\newcommand{\F}{{\cal F}}
+\newcommand{\NN}{{\cal N}}
+\newcommand{\tI}{{\tilde I}}
+\newcommand{\tJ}{{\tilde J}}
+\newcommand{\defeq}{\stackrel{def}{=}}
+\newcommand{\R}{I\!\!R}
+\newcommand{\N}{I\!\!N}
+\def\R{\mathbb{R}}
+%\newcommand{\N}{\mathbb{N}}
+\def\Z{\mathbb{Z}}
+\def\Q{\mathbb{Q}}
+\def\I{\mathbb{I}}
+
+
+\begin{document}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+{\Large
+	
+%\begin{figure}[h]
+%	\centering\includegraphics[scale=0.52]{opim.png}
+	
+%\end{figure}
+\vspace{4.5cm}
+{\sc \Huge
+	\centerline{Elementos de Matemática}
+
+	\vspace{7.5cm}}
+	
+		
+}
+
+{\Large \begin{flushright}
+	\begin{minipage}[t]{7.0cm}
+		Vitaliano S. Amaral - UFPI
+	\end{minipage}
+\end{flushright}
+}
+%\institute{...}
+
+\date{\today}
+% The correct dates will be entered by the editor
+
+
+%\maketitle
+\tableofcontents
+
+%
+% \noindent{\bf AMS Classification.} 90C29\,$\cdot$\,90C25\,$\cdot$\,65K10\,$\cdot$\,49J52.
+%
+\chapter{Números Reais}
+
+Ao longo da história, os números surgiram para atender a diferentes necessidades humanas. Os números naturais apareceram inicialmente como uma forma de contar objetos e registrar quantidades. Com o tempo, a necessidade de representar dívidas, perdas e posições relativas levou à introdução dos números inteiros, que incluem tanto os naturais quanto seus opostos negativos.
+
+
+O conjunto dos números naturais é dado por:
+$$
+\mathbb{N} = \{0, 1, 2, \dots\}
+$$
+
+Cada número natural pode ser representado sobre a reta real. Uma vez fixados os pontos correspondentes aos números $0$ e $1$, adotamos a distância entre eles como unidade de medida. A partir daí, todos os números naturais são representados como pontos igualmente espaçados, posicionados da esquerda para a direita a partir do zero.
+
+Veja a seguir a ilustração do conjunto $\mathbb{N}$ sobre a reta real:
+
+\begin{center}
+	\begin{tikzpicture}[scale=1]
+		% Reta para N
+		\draw[->] (-0.5,0) -- (10.5,0);
+		
+		% Marcas e números
+		\foreach \x in {0,...,10}
+		{
+			\draw (\x,0.1) -- (\x,-0.1);
+			\node[below] at (\x,-0.1) {\x};
+		}
+	\end{tikzpicture}
+\end{center}
+
+O conjunto dos números inteiros é representado da seguinte forma:
+$$
+\mathbb{Z} = \{\dots, -2, -1, 0, 1, 2, \dots\}
+$$
+
+De maneira análoga, os números inteiros também podem ser representados sobre a reta real. Uma vez fixados os pontos $0$ e $1$, adotamos a distância entre eles como unidade de medida. A partir disso, os inteiros são posicionados igualmente espaçados, estendendo-se para a direita (inteiros positivos) e para a esquerda (inteiros negativos) a partir do zero.
+
+Veja a seguir a ilustração do conjunto $\mathbb{Z}$ sobre a reta real:
+
+\begin{center}
+	\begin{tikzpicture}[scale=1]
+		% Reta para Z
+		\draw[->] (-5.5,0) -- (5.5,0);
+		
+		% Marcas e números
+		\foreach \x in {-5,...,5}
+		{
+			\draw (\x,0.1) -- (\x,-0.1);
+			\node[below] at (\x,-0.1) {\x};
+		}
+	\end{tikzpicture}
+\end{center}
+
+Observamos que os números inteiros consecutivos delimitam intervalos unitários (de comprimento $1$).
+
+O conjunto dos números racionais surge da necessidade de representar partes de um inteiro, aparecendo como subdivisões desses intervalos unitários. Por exemplo, $\frac{1}{2}$ corresponde ao ponto situado exatamente no meio entre $0$ e $1$, $\frac{3}{4}$ está localizado a três quartos da distância entre $0$ e $1$, e assim por diante. Os racionais negativos seguem a mesma lógica, mas posicionados à esquerda de $0$.
+
+Assim, o conjunto dos números racionais é representado por:
+$$
+\mathbb{Q} = \left\{ \dfrac{p}{q} \;|\; p, q \in \mathbb{Z},\, q \neq 0 \right\}
+$$
+
+Essa construção nos permite associar um ponto da reta real a cada número racional. No entanto, como entre quaisquer dois números reais distintos existem infinitos racionais, não podemos representá-los todos graficamente. Em vez disso, destacamos apenas alguns exemplos para ilustrar a densidade dos números racionais sobre a reta real.
+
+\begin{center}
+	\begin{tikzpicture}[scale=1]
+		% Reta
+		\draw[->] (-5.5,0) -- (5.5,0);
+		
+		% Inteiros com rótulo
+		\foreach \x in {-5,0,2,5} {
+			\draw (\x,0.1) -- (\x,-0.1);
+			\node[below] at (\x,-0.1) {\x};
+		}
+		
+		% Inteiros sem rótulo (apenas traço)
+		\foreach \x in {-4,-3,-2,-1,1,3,4} {
+			\draw (\x,0.05) -- (\x,-0.05);
+		}
+		
+		% Racionais destacados corretamente posicionados
+		\draw (-3.5,0.1) -- (-3.5,-0.1);
+		\node[below] at (-3.5,-0.1) {$-\tfrac{7}{2}$};
+		
+		\draw (-1.5,0.1) -- (-1.5,-0.1);
+		\node[below] at (-1.5,-0.1) {$-\tfrac{3}{2}$};
+		
+		\draw (-0.5,0.1) -- (-0.5,-0.1);
+		\node[below] at (-0.5,-0.1) {$-\tfrac{1}{2}$};
+		
+		\draw (0.75,0.1) -- (0.75,-0.1);
+		\node[below] at (0.75,-0.1) {$\tfrac{3}{4}$};
+		
+		\draw (1.5,0.1) -- (1.5,-0.1);
+		\node[below] at (1.5,-0.1) {$\tfrac{3}{2}$};
+		
+		\draw (2.5,0.1) -- (2.5,-0.1);
+		\node[below] at (2.5,-0.1) {$\tfrac{5}{2}$};
+		
+		\draw (3.5,0.1) -- (3.5,-0.1);
+		\node[below] at (3.5,-0.1) {$\tfrac{7}{2}$};
+	\end{tikzpicture}
+\end{center}
+
+Admitiremos as seguintes operações (adição e multiplicação) no conjunto dos números racionais.
+
+
+\begin{de}{\bf(Adição)} Sejam $a=\displaystyle\frac{m}{n}$ e $b=\displaystyle\frac{r}{s}$ elementos de $\Q$. A soma de $a$ com $b$ é o elemento de $\Q$
+	$$a+b=\displaystyle\frac{ms+nr}{ns}.$$
+\end{de}
+\begin{ex}
+	Sejam $a = \displaystyle\frac{2}{3}$ e $b = \displaystyle\frac{5}{4}$. Então, a soma de $a$ com $b$ é:
+	\[
+	a + b = \frac{2 \cdot 4 + 3 \cdot 5}{3 \cdot 4} = \frac{8 + 15}{12} = \frac{23}{12}.
+	\]
+\end{ex}
+
+
+\begin{de}{\bf(Multiplicação)} Sejam $a=\displaystyle\frac{m}{n}$ e $b=\displaystyle\frac{r}{s}$ elementos de $\Q$. A multiplicação(produto) de $a$ com $b$ é o elemento de $\Q$
+	$$ab=\displaystyle\frac{mr}{ns}.$$
+\end{de}
+
+\begin{ex}
+	Sejam $a = \displaystyle\frac{2}{3}$ e $b = \displaystyle\frac{5}{4}$. Então, o produto de $a$ com $b$ é:
+	\[
+	ab = \frac{2 \cdot 5}{3 \cdot 4} = \frac{10}{12} = \frac{5}{6}.
+	\]
+\end{ex}
+É fácil perceber que entre dois números racionais sempre existe outro número racional. De fato, dados dois números racionais $a=\dfrac{m}{n}$ e $b=\dfrac{r}{s}$ com $a < b$, $m,n,r,s\in\Z$. Considere o número racional da forma 
+\[
+c=a+\frac{b-a}{2}.
+\]
+Podemos observar que $c$ está entre $a$ e $b$, pois $c$ é obtido somando a $a$ a metade da distância entre $a$ e $b$. Veja a ilustração geométrica na Figura~\ref{fig:meio}.
+\begin{figure}[H]
+	\centering
+	\begin{tikzpicture}[scale=8]
+		% Eixo
+		\draw[->] (0,0) -- (1.1,0) node[right] {};
+		
+		% Pontos
+		\filldraw (0.2,0) circle (0.3pt) node[below] {$a$};
+		\filldraw (0.7,0) circle (0.3pt) node[below] {$b$};
+		\filldraw (0.45,0) circle (0.3pt) node[below] {$c$};
+		
+		% Marcação de distância
+		%\draw[<->] (0.2,0.1) -- (0.7,0.1) node[midway, above] {$b - a$};
+		\draw[dashed] (0.45,0) -- (0.45,0.08);
+		\draw[dashed] (0.2,0) -- (0.2,0.08);
+		\draw[<->] (0.2,0.08) -- (0.45,0.08) node[midway, above] {$\frac{b-a}{2}$};
+	\end{tikzpicture}
+	\caption{Ilustração do ponto médio $c=a+\frac{b-a}{2} $  na reta real.}
+	\label{fig:meio}
+\end{figure}
+
+Agora, além da afirmação acima vamos mosttrar que $c$ é um número racional e está enrte os racionasi $a$ e $b$. Veja que 
+\begin{eqnarray*}
+	c=a+\frac{1}{2}(b-a)&=&\frac{2a+b-a}{2}=\frac{a + b}{2}\\
+	&=&\frac{1}{2}\left(\dfrac{r}{s}+\dfrac{m}{n}\right)=\left(\dfrac{rn+ms}{2ns}\right),
+\end{eqnarray*}
+como $rn + ms$ e $2ns$ são números inteiros, podemos garantir que $c$ é um número racional, pois é a razão entre dois inteiros com denominador diferente de zero.
+
+Além da explicação anterior, outra forma de garantir que $c$ está entre $a$ e $b$ é observar que
+\[
+a = \frac{a + a}{2} < \frac{a + b}{2} = c \quad \text{e} \quad c = \frac{a + b}{2} < \frac{b + b}{2} = b,
+\]
+portanto, temos $a < c < b$.
+
+Diante do exposto anteriormente, surge uma dúvida: como sempre existe um número racional entre dois números racionais, então seria possível preencher toda a reta numérica apenas com números racionais?
+
+A seguir veremos que a resposta para a pergunta anterior é: não é possível. 
+
+Diz-se que Hipaso de Metaponto, um seguidor de Pitágoras, foi o primeiro a descobrir que existem números que não podem ser representados pela divisão de dois números inteiros. Ele teria demonstrado que $\sqrt{2}$ não é racional, provavelmente por meio de uma prova geométrica.
+
+
+Considere um triângulo retângulo desenhado sobre a reta numérica(veja Figura \ref{fig:h}), com catetos medindo $1$ unidade cada e hipotenusa sobre a reta numérica, indo do ponto $0$ até o ponto marcado por $x$, ou seja, a hipotenusa tem comprimento medindo $x$ unidades.
+
+\begin{center}
+	\begin{figure}[h]
+		\centering
+		\begin{tikzpicture}[scale=4]
+			
+			% valor da raiz de 2
+			\pgfmathsetmacro{\rtwo}{sqrt(2)}
+			
+			% eixo da reta real
+			\draw[->] (-0.5,0) -- (2.2,0) node[right] {$\mathbb{R}$};
+			
+			% marcas inteiras
+			\foreach \x in {0,1,2} {
+				\draw (\x,0.05) -- (\x,-0.05) node[below] {\x};
+			}
+			
+			% pontos da hipotenusa sobre a reta
+			\coordinate (O) at (0,0);            
+			\coordinate (H) at (\rtwo,0);        
+			\coordinate (V) at ({\rtwo/2},{sqrt(1 - (\rtwo/2)^2)}); 
+			
+			% triângulo
+			\draw[thick] (O) -- (V) -- (H) -- cycle;
+			
+			% indicação dos catetos
+			\node[left]  at ($(O)!0.5!(V)$) {$1$};
+			\node[right] at ($(V)!0.5!(H)$) {$1$};
+			
+			% marca ângulo reto com quadradinho
+			\path (V) -- ($(V)!0.15!(O)$) coordinate (Va);
+			\path (V) -- ($(V)!0.15!(H)$) coordinate (Vb);
+			\draw (Va) -- ($(Va)+(Vb)-(V)$) -- (Vb);
+			
+			% marca x minúsculo abaixo do ponto final da hipotenusa
+			\draw (\rtwo,0.05) -- (\rtwo,-0.05) node[below] {$x$};
+			
+		\end{tikzpicture}
+		\caption{}
+		\label{fig:h}
+	\end{figure}	
+\end{center}
+
+
+
+Pelo \textbf{Teorema de Pitágoras}, temos:
+$
+x^2 = 1^2 + 1^2 = 2.$
+
+Suponha, por contradição, que $x$ seja um número racional. Então podemos escrevê-lo como $\dfrac{p}{q}$, com $p$ e $q$ inteiros primos entre si. Substituindo em $x^2 = 2$:
+\[
+\left(\frac{p}{q}\right)^2 = 2 
+\quad\Rightarrow\quad 
+\frac{p^2}{q^2} = 2
+\]
+\[
+p^2 = 2q^2
+\]
+Isso implica que $p^2$ é par, logo $p$ é par. Seja $p = 2k$, assim temos
+\[
+(2k)^2 = 2q^2 
+\quad\Rightarrow\quad 
+4k^2 = 2q^2 
+\quad\Rightarrow\quad 
+q^2 = 2k^2
+\]
+Portanto, $q^2$ também é par, o que implica que $q$ é par.
+
+Chegamos a uma contradição, pois $p$ e $q$ seriam ambos pares, contrariando a hipótese de que são primos entre si. Logo, $x$ \textbf{não é um número racional}.
+
+Como $x$ é um ponto da reta numérica que não pertence ao conjunto dos racionais, concluímos que a reta real não pode ser preenchida completamente apenas por números racionais.
+
+O conjunto dos números que não podem ser representados como a divisão de dois inteiros, ou seja, que não são números racionais, é denotado pela letra $\mathbb{I}$ e chamado de \emph{conjunto dos números irracionais}.
+
+
+Da própria definição, temos que os conjuntos $\mathbb{Q}$ e $\mathbb{I}$ não possuem elementos em comum, isto é,
+\[
+\mathbb{Q} \cap \mathbb{I} = \emptyset.
+\]
+
+Os elementos dos conjuntos $\mathbb{Q}$ e $\mathbb{I}$, juntos, formam o conjunto dos números reais, denotado por $\mathbb{R}$, ou seja,
+\[
+\mathbb{R} = \mathbb{Q} \cup \mathbb{I}.
+\]
+
+
+\begin{exer}
+	Mostre que a soma de dois números racionais é também um número racional.
+\end{exer}
+\begin{exer}
+	A soma de uma número racional com um número irracional é um número racional? Justifique sua resposta.
+\end{exer}
+\begin{exer}
+	A soma de dois números irracionais é um número irracional? Justifique sua resposta.
+\end{exer}
+
+
+
+
+	
+	
+	
+	
+	
+	
+\end{document}
