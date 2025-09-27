@@ -25,8 +25,8 @@ author_profile: true
 
 ## Submitted articles
 
-1. **V.S.Amaral, P.B.Assunção, D.R.Souza** *A Partially Derivative-Free Proximal Method for Composite Multiobjective Optimization in the Hölder Setting* [preprint]{
-https://doi.org/10.48550/arXiv.2508.20071}
+1. **V.S.Amaral, P.B.Assunção, D.R.Souza** *A Partially Derivative-Free Proximal Method for Composite Multiobjective Optimization in the Hölder Setting* [preprint](
+https://doi.org/10.48550/arXiv.2508.20071)
 
 
 
