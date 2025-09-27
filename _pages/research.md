@@ -32,6 +32,9 @@ https://doi.org/10.48550/arXiv.2508.20071)
 Sissy S. Souza** *Complexity Bounds for Proximal Regularization
 Methods with Partial Derivative-Free Structure*
 
+1. **A. Alves, V. S. Amaral, J. O. L. Silva, P. S. M. Santos and S. S. Souza** *A Smoothing method for solving quadratic convex separable
+knapsack problems*
+
 
 
 
