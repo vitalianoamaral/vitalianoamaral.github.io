@@ -43,7 +43,7 @@ knapsack problems*
 
 1. **Amaral, Vitaliano; PlacidoO, Thiago; Travaglia, Marcos.** *Conectando teoria e prática no ensino de matemática no ensino médio através do método da secante.* PROFESSOR DE MATEMÁTICA ONLINE, v. 13, p. 1, 2025. [https://doi.org/10.21711/2319023x2025/pmo1302](https://doi.org/10.21711/2319023x2025/pmo1302)
    
-## Articles accepted for publication
+## Submitted articles
 
 1. ...
 ---
