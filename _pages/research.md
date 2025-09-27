@@ -12,7 +12,7 @@ author_profile: true
 # Optimization research
 ## Published articles
 
-1. **V. S. Amaral.** *(2025). A partially derivative-free cyclic block coordinate descent method for nonseparable composite optimization.* Mathematical Modelling and Analysis, 30(3), 535–552. https://doi.org/10.3846/mma.2025.23064
+1. **V. S. Amaral.** *(2025). A partially derivative-free cyclic block coordinate descent method for nonseparable composite optimization.* Mathematical Modelling and Analysis, 30(3), 535–552. [https://doi.org/10.3846/mma.2025.23064](https://doi.org/10.3846/mma.2025.23064)
 
 1. **Amaral. V. S.; Santos, P. S. M.; Silva, G. N; Souza, S. S.** *A modified Newton-secant method for solving nonsmooth generalized equations.* Mathematical Modelling and Analysis, v. 29, p. 347-366, 2024. [https://doi.org/10.3846/mma.2024.18680](https://doi.org/10.3846/mma.2024.18680 )
 
