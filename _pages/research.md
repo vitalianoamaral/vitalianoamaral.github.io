@@ -28,6 +28,10 @@ author_profile: true
 1. **V.S.Amaral, P.B.Assunção, D.R.Souza** *A Partially Derivative-Free Proximal Method for Composite Multiobjective Optimization in the Hölder Setting* [preprint](
 https://doi.org/10.48550/arXiv.2508.20071)
 
+1. **Vitaliano S. Amaral, Jurandir O. Lopes, Paulo S. M. Santos,
+Sissy S. Souza** *Complexity Bounds for Proximal Regularization
+Methods with Partial Derivative-Free Structure*
+
 
 
 
