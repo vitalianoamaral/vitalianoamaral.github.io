@@ -16,3 +16,9 @@ author_profile: true
 
 - **[Sobre a complexidade e convergência de algoritmos de decida coordenadas de alta ordem para minimização suave não-convexa sujeita a restrições de caixa](/files/jovesn2024.pdf)**  
  V CONGRESSO BRASILEIRO DE JOVENS PESQUISADORES EM MATEMÁTICA PURA, APLICADA E ESTATÍSTICA (V CBJME) - Universidade Federal de Minas Gerais. *Setembro de 2024 - Belo Horizonte, MG, Brasil*
+
+- **[Possibilidades para o Ensino de Métodos Numéricos no Ensino Médio](/files/profmat2024.pdf)**  
+  V Encontro Profmat do Piauí 2024 - Universidade Federal do Piauí. *Outubro de 2024 - Teresina, Piauí, Brasil*
+
+- **[Sobre a complexidade de um algoritmo de regularização quadrática para minimizar funções não suaves e não convexas](/files/jornada2024.pdf)**  
+  XII Jornada de Matemática da UFPI - Universidade Federal do Piauí. *Setembro de 2024 - Teresina, Piauí, Brasil*
