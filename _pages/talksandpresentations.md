@@ -14,7 +14,7 @@ author_profile: true
 
 ## 2024
 
-- **[Sobre a complexidade e convergência de algoritmos de decida coordenadas de alta ordem para minimização suave não-convexa sujeita a restrições de caixa](/files/jovesn2024.pdf)**  
+- **[Sobre a complexidade e convergência de algoritmos de decida coordenadas de alta ordem para minimização suave não-convexa sujeita a restrições de caixa](/files/jovens2024.pdf)**  
  V CONGRESSO BRASILEIRO DE JOVENS PESQUISADORES EM MATEMÁTICA PURA, APLICADA E ESTATÍSTICA (V CBJME) - Universidade Federal de Minas Gerais. *Setembro de 2024 - Belo Horizonte, MG, Brasil*
 
 - **[Possibilidades para o Ensino de Métodos Numéricos no Ensino Médio](/files/profmat2024.pdf)**  
