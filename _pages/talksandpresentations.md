@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Talks and presentations"
-permalink: /research/
+permalink: /talksandpresentations/
 author_profile: true
 ---
 # Talks and presentations
