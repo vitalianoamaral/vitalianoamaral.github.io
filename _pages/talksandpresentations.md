@@ -5,6 +5,8 @@ permalink: /talksandpresentations/
 author_profile: true
 ---
 ## 2025
+- **[Uma Breve Introdução aos Avanços dos Métodos de Descida Coordenada por Blocos](/files/ermac2025.pdf)**  
+  VI Encontro de Matemática Aplicada e Computacional - ERMAC 2025 - UFCA - Universidade Federal do Cariri. *Novembro de 2025 - Juazeiro do Norte, Ceará, Brasil*
 
 - **[Extensões do método ponto proximal para a minimização de composição de funções](/files/cnmac2025.pdf)**  
   XLIV Congresso Nacional de Matemática Aplicada e Computacional - Fundação Getulio Vargas. *Setembro de 2025 - Rio de Janeiro, RJ, Brasil*
