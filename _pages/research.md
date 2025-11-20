@@ -25,6 +25,8 @@ author_profile: true
 
 ## Submitted articles
 
+1. **Vitaliano S. Amaral, Marcio Antônio de A. Bortoloti, Jurandir O. Lopes, Gilson N. Silva.** *An Adaptive Proximal Point Method for Nonsmooth and Nonconvex Optimization on Hadamard Manifolds* [preprint](https://arxiv.org/pdf/2511.14724)
+
 1. **V. S. Amaral, P. B. Assunção, D. R. Souza.** *A Partially Derivative-Free Proximal Method for Composite Multiobjective Optimization in the Hölder Setting* [preprint](
 https://doi.org/10.48550/arXiv.2508.20071)
 
