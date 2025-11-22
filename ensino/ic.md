@@ -5,8 +5,9 @@ permalink: /ensino/ic/
 author_profile: true
 ---
 ### Orientações  em andamento
-* LIVIA FERREIRA DA SILVA SANTOS. Introdução aos estudos dos Métodos de descenso coordenado por blocos, extensões e aplicações. Início: 2025. Programa de Iniciação Científica Voluntária – ICV/UFPI (IC)
-* HEITOR RODRIGUES ROCHA. Um estudos dos Métodos de descida coordenada por blocos e aplicações. Programa de Iniciação Científica Voluntária – ICV/UFPI (IC)
+1. LIVIA FERREIRA DA SILVA SANTOS. Introdução aos estudos dos Métodos de descenso coordenado por blocos, extensões e aplicações. Início: 2025. Programa de Iniciação Científica Voluntária – ICV/UFPI (IC)
+
+1. HEITOR RODRIGUES ROCHA. Um estudos dos Métodos de descida coordenada por blocos e aplicações. Programa de Iniciação Científica Voluntária – ICV/UFPI (IC)
 
 ### Orientações concluídas
 1. WILSON PEREIRA BARBOSA SILVA. Complexidade e extensão dos métodos de descenso coordenado por blocos. Início: 2024. Programa de Iniciação Científica Voluntária – ICV/UFPI (IC)
