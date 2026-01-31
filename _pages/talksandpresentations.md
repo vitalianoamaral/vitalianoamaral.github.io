@@ -4,6 +4,10 @@ title: "Talks and presentations"
 permalink: /talksandpresentations/
 author_profile: true
 ---
+## 2026
+- **[Métodos de O@mização Livre de Derivadas](/files/II WorkshopUFPI.pdf)**  
+  II Workshop de Matemática da UFPI - Universidade Federal do Piauí. *Janeiro de 2026 - Teresina, Piauí, Brasil*
+  
 ## 2025
 - **[Uma Breve Introdução aos Avanços dos Métodos de Descida Coordenada por Blocos](/files/ermac2025.pdf)**  
   VI Encontro de Matemática Aplicada e Computacional - ERMAC 2025 - UFCA - Universidade Federal do Cariri. *Novembro de 2025 - Juazeiro do Norte, Ceará, Brasil*
