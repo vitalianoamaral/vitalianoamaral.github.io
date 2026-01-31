@@ -5,7 +5,7 @@ permalink: /talksandpresentations/
 author_profile: true
 ---
 ## 2026
-- **[Métodos de O@mização Livre de Derivadas](/files/II WorkshopUFPI.pdf)**  
+- **[Métodos de Otimização Livre de Derivadas](/files/II WorkshopUFPI.pdf)**  
   II Workshop de Matemática da UFPI - Universidade Federal do Piauí. *Janeiro de 2026 - Teresina, Piauí, Brasil*
   
 ## 2025
