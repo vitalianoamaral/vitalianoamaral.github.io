@@ -12,6 +12,9 @@ author_profile: true
 # Optimization research
 ## Published articles
 
+1. **A. Alves, V. S. Amaral, J. O. L. Silva, P. S. M. Santos and S. S. Souza.** *A Smoothing method for solving quadratic convex separable
+knapsack problems.* Optimization Methods and Software, 1–19. [https://doi.org/10.1080/10556788.2025.2611436](https://doi.org/10.1080/10556788.2025.2611436)
+
 1. **V. S. Amaral.** *(2025). A partially derivative-free cyclic block coordinate descent method for nonseparable composite optimization.* Mathematical Modelling and Analysis, 30(3), 535–552. [https://doi.org/10.3846/mma.2025.23064](https://doi.org/10.3846/mma.2025.23064)
 
 1. **Amaral. V. S.; Santos, P. S. M.; Silva, G. N; Souza, S. S.** *A modified Newton-secant method for solving nonsmooth generalized equations.* Mathematical Modelling and Analysis, v. 29, p. 347-366, 2024. [https://doi.org/10.3846/mma.2024.18680](https://doi.org/10.3846/mma.2024.18680 )
@@ -34,8 +37,6 @@ https://doi.org/10.48550/arXiv.2508.20071)
 Sissy S. Souza.** *Complexity Bounds for Proximal Regularization
 Methods with Partial Derivative-Free Structure*
 
-1. **A. Alves, V. S. Amaral, J. O. L. Silva, P. S. M. Santos and S. S. Souza.** *A Smoothing method for solving quadratic convex separable
-knapsack problems*
 
 
 
