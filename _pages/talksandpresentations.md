@@ -5,6 +5,11 @@ permalink: /talksandpresentations/
 author_profile: true
 ---
 ## 2026
+- **[A Partially Derivative-Free Proximal Method
+for Composite Multiobjective Optimization
+in the Hölder Setting](/files/Brazopt2026.pdf)**  
+  XV Brazilian Workshop on Continuous Optimization - BRAZOPT 2026 - Universidade Federal de Santa Catarina - UFSC. *Blumenau, Santa Catarina, Brasil*
+  
 - **[Métodos de Otimização Livre de Derivadas](/files/II WorkshopUFPI.pdf)**  
   II Workshop de Matemática da UFPI - Universidade Federal do Piauí. *Janeiro de 2026 - Teresina, Piauí, Brasil*
   
