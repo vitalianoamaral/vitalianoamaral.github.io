@@ -12,6 +12,7 @@ author_profile: true
 - Análise convexa
 - Análise real I
 - Cálculo diferencial e integral I
+  - [Notas de Aula](/files/Cálculo I MAT.pdf)
 - Cálculo diferencial e integral II-CT
   - [Notas de Aula](/files/Cálculo dif e int II CT.pdf)
 - Cálculo diferencial e integral III
@@ -28,6 +29,8 @@ author_profile: true
 - Matemática comercial e financeira
 - Métodos numéricos
 - Resolução de problemas e textos matemáticos
+- Teoria dos números
+  - [Notas de Aula](/files/Teoria dos números.pdf)
 - Variáveis complexas
 
 ---
