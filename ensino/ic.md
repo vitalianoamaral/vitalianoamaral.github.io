@@ -5,6 +5,8 @@ permalink: /ensino/ic/
 author_profile: true
 ---
 ### Orientações  em andamento
+1. SALATIEL AZEVEDO DA SILVA. Métodos de minimização por blocos aplicados em recuperação de imagem. Início: 2025. Iniciação científica (Graduando em MATEMÁTICA) - Universidade Federal do Piauí, Fundação de Amparo à Pesquisa do Estado do Piauí.
+   
 1. LIVIA FERREIRA DA SILVA SANTOS. Introdução aos estudos dos Métodos de descenso coordenado por blocos, extensões e aplicações. Início: 2025. Programa de Iniciação Científica Voluntária – ICV/UFPI (IC)
 
 1. HEITOR RODRIGUES ROCHA. Um estudos dos Métodos de descida coordenada por blocos e aplicações. Programa de Iniciação Científica Voluntária – ICV/UFPI (IC)
