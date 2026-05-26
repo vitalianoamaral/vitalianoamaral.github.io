@@ -45,5 +45,3 @@ in the Hölder Setting](/files/Brazopt2026.pdf)**
 
 - **[Sobre a complexidade de um algoritmo de regularização quadrática para minimizar funções não suaves e não convexas](/files/jornada2024.pdf)**  
   XII Jornada de Matemática da UFPI - Universidade Federal do Piauí. *Setembro de 2024 - Teresina, Piauí, Brasil*
-
-  <!-- update -->
