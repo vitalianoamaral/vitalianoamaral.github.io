@@ -5,12 +5,12 @@ permalink: /talksandpresentations/
 author_profile: true
 ---
 ## 2026
-- **[Metodos de Descida Coordenada por Blocos: Avancos e Desafios]**  
+- **[Metodos de Descida Coordenada por Blocos: Avancos e Desafios]()**  
   VI Congresso Brasileiro de Jovens Pesquisadoras e Pesquisadores em Matem ́atica Pura, Aplicada e Estat ́ıstica - VI CBJME. *Teresina, Piauí, Brasil*
   
 - **[A Partially Derivative-Free Proximal Method
 for Composite Multiobjective Optimization
-in the Hölder Setting]**  
+in the Hölder Setting]()**  
   International Conference on Optimization and Machine Learning, Theory and Applications - ICOMaLTA-2026 - Universidad de Tarapacá - UTA. *Arica, Chile*
   
 - **[Métodos de otimização livres de derivadas](/files/ERMACSC.pdf)**  
