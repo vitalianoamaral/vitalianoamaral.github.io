@@ -16,7 +16,7 @@ in the Hölder Setting]()**
 - **[Métodos de otimização livres de derivadas](/files/ERMACSC.pdf)**  
   III Encontro Regional de Matemática Aplicada e Computacional (ERMAC-SC 2026) - Universidade Federal de Santa Catarina - UFSC. *Florianóplis, Santa Catarina, Brasil*
   
-- **[Um método de suavização para resolver problemas quadráticos convexos separáveis do tipo knapsack](/files/Curitiba.pdf)**  
+- **[Um método de suavização para resolver problemas quadráticos convexos separáveis do tipo knapsack]()**  
   XVIII Simpósio de Análise Numérica e Otimização - Universidade Federal do Paraná - UFPR. *Curitiba, Paraná, Brasil*
   
 - **[A Partially Derivative-Free Proximal Method
