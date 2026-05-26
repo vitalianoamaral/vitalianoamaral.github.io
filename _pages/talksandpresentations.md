@@ -24,7 +24,7 @@ for Composite Multiobjective Optimization
 in the Hölder Setting](/files/Brazopt2026.pdf)**  
   XV Brazilian Workshop on Continuous Optimization - BRAZOPT 2026 - Universidade Federal de Santa Catarina - UFSC. *Blumenau, Santa Catarina, Brasil*
   
-- **[Métodos de Otimização Livre de Derivadas](/files/II WorkshopUFPI.pdf)**  
+- **[Métodos de Otimização Livre de Derivadas]()**  
   II Workshop de Matemática da UFPI - Universidade Federal do Piauí. *Janeiro de 2026 - Teresina, Piauí, Brasil*
   
 ## 2025
