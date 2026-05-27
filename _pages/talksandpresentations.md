@@ -5,7 +5,7 @@ permalink: /talksandpresentations/
 author_profile: true
 ---
 ## 2026
-- **[Metodos de Descida Coordenada por Blocos: Avancos e Desafios]()**  
+- **[Métodos de Descida Coordenada por Blocos: Avanços e Desafios]()**  
   VI Congresso Brasileiro de Jovens Pesquisadoras e Pesquisadores em Matematica Pura, Aplicada e Estatıstica - VI CBJME. *Teresina, Piauí, Brasil*
   
 - **[A Partially Derivative-Free Proximal Method for Composite Multiobjective Optimization in the Hölder Setting]()**  
