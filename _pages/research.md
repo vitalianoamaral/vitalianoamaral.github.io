@@ -28,7 +28,7 @@ knapsack problems.* Optimization Methods and Software, 1–19. [https://doi.org/
 
 ## Submitted articles
 
-1. **Vitaliano S. Amaral, Felipe Lara, Cristian Vega‡** *Block Coordinate Descent Methods for Nonconvex Nonsmooth
+1. **Vitaliano S. Amaral, Felipe Lara, Cristian Vega** *Block Coordinate Descent Methods for Nonconvex Nonsmooth
 Optimization with Applications*. (2026).   
 
 
