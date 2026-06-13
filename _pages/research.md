@@ -26,16 +26,17 @@ knapsack problems.* Optimization Methods and Software, 1–19. [https://doi.org/
 1. **Amaral, V.S., Andreani, R., Birgin, E.G., Marcondes, D. S., Martínez, J. M.** *On complexity and convergence of high-order coordinate descent algorithms for smooth nonconvex box-constrained minimization*. J Glob Optim 84, 527–561 (2022). 
  [https://doi.org/10.1007/s10898-022-01168-6](https://doi.org/10.1007/s10898-022-01168-6)
 
+## Articles accepted for publication
+
+1. **Vitaliano S. Amaral, Marcio Antônio de A. Bortoloti, Jurandir O. Lopes, Gilson N. Silva.** *An Adaptive Proximal Point Method for Nonsmooth and Nonconvex Optimization on Hadamard Manifolds*. JOURNAL OF OPTIMIZATION THEORY AND APPLICATIONS (2026).
+
 ## Submitted articles
 
 1. **Vitaliano S. Amaral, Felipe Lara, Cristian Vega** *Block Coordinate Descent Methods for Nonconvex Nonsmooth
 Optimization with Applications*. (2026).   
 
-
 1. **V. S. Amaral, R. Andreani, L. D. Secchin, G. N. Silva** *A flexible block coordinate descent method for unconstrained optimization under Hölder continuity*. (2026). [preprint](https://optimization-online.org/2026/04/a-flexible-block-coordinate-descent-method-for-unconstrained-optimization-under-holder-continuity/)
   
-1. **Vitaliano S. Amaral, Marcio Antônio de A. Bortoloti, Jurandir O. Lopes, Gilson N. Silva.** *An Adaptive Proximal Point Method for Nonsmooth and Nonconvex Optimization on Hadamard Manifolds* [preprint](https://arxiv.org/pdf/2511.14724)
-
 1. **V. S. Amaral, P. B. Assunção, D. R. Souza.** *A Partially Derivative-Free Proximal Method for Composite Multiobjective Optimization in the Hölder Setting* [preprint](
 https://doi.org/10.48550/arXiv.2508.20071)
 
