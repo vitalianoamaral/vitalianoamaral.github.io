@@ -41,8 +41,7 @@ Optimization with Applications*. (2026).
 https://doi.org/10.48550/arXiv.2508.20071)
 
 1. **Vitaliano S. Amaral, Jurandir O. Lopes, Paulo S. M. Santos,
-Sissy S. Souza.** *Complexity Bounds for Proximal Regularization
-Methods with Partial Derivative-Free Structure*
+Sissy S. Souza.** *Hybrid Proximal Point Method with Partial Derivative-Free Structure*
 
 
 
