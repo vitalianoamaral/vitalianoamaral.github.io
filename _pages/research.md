@@ -44,7 +44,6 @@ https://doi.org/10.48550/arXiv.2508.20071)
 1. **Vitaliano S. Amaral, Jurandir O. Lopes, Paulo S. M. Santos,
 Sissy S. Souza.** *Hybrid Proximal Point Method with Partial Derivative-Free Structure*
 
-1. **V. S. Amaral, A. W. N. Sousa, M. V. Travaglia** *APROFUNDANDO ERROS DE MEDIDA EM UMA AULA DE CAMPO DE TRIGONOMETRIA: UMA APLICAÇÃO DO CÁLCULO DIFERENCIAL NA ESTIMATIVA DE MEDIDAS INACESSÍVEIS*(2026)
 
 
 
@@ -57,5 +56,5 @@ Sissy S. Souza.** *Hybrid Proximal Point Method with Partial Derivative-Free Str
    
 ## Submitted articles
 
-1. ...
+1. **V. S. Amaral, A. W. N. Sousa, M. V. Travaglia** *APROFUNDANDO ERROS DE MEDIDA EM UMA AULA DE CAMPO DE TRIGONOMETRIA: UMA APLICAÇÃO DO CÁLCULO DIFERENCIAL NA ESTIMATIVA DE MEDIDAS INACESSÍVEIS*(2026)
 ---
