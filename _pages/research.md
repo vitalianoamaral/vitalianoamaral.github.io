@@ -12,6 +12,8 @@ author_profile: true
 # Optimization research
 ## Published articles
 
+1. **Amaral, V.S., A. Bortoloti, M.A.d., Lopes, J.O., Silva, G. N.** *An Adaptive Proximal Point Method for Nonsmooth and Nonconvex Optimization on Hadamard Manifolds.* J Optim Theory Appl 210, 15 (2026). [https://doi.org/10.1007/s10957-026-03046-7](https://doi.org/10.1007/s10957-026-03046-7).
+
 1. **A. Alves, V. S. Amaral, J. O. L. Silva, P. S. M. Santos and S. S. Souza.** *(2026) A Smoothing method for solving quadratic convex separable
 knapsack problems.* Optimization Methods and Software, 1–19. [https://doi.org/10.1080/10556788.2025.2611436](https://doi.org/10.1080/10556788.2025.2611436)
 
@@ -28,7 +30,6 @@ knapsack problems.* Optimization Methods and Software, 1–19. [https://doi.org/
 
 ## Articles accepted for publication
 
-1. **Vitaliano S. Amaral, Marcio Antônio de A. Bortoloti, Jurandir O. Lopes, Gilson N. Silva.** *An Adaptive Proximal Point Method for Nonsmooth and Nonconvex Optimization on Hadamard Manifolds*. JOURNAL OF OPTIMIZATION THEORY AND APPLICATIONS (2026).
 
 ## Submitted articles
 
