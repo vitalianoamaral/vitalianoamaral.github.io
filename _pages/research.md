@@ -12,7 +12,7 @@ author_profile: true
 # Optimization research
 ## Published articles
 
-1. **Amaral, V.S., A. Bortoloti, M.A.d., Lopes, J.O., Silva, G. N.** *An Adaptive Proximal Point Method for Nonsmooth and Nonconvex Optimization on Hadamard Manifolds.* J Optim Theory Appl 210, 15 (2026). [https://doi.org/10.1007/s10957-026-03046-7](https://doi.org/10.1007/s10957-026-03046-7).
+1. **Amaral, V. S., A. Bortoloti, M. A. d., Lopes, J. O., Silva, G. N.** *An Adaptive Proximal Point Method for Nonsmooth and Nonconvex Optimization on Hadamard Manifolds.* J Optim Theory Appl 210, 15 (2026). [https://doi.org/10.1007/s10957-026-03046-7](https://doi.org/10.1007/s10957-026-03046-7).
 
 1. **A. Alves, V. S. Amaral, J. O. L. Silva, P. S. M. Santos and S. S. Souza.** *(2026) A Smoothing method for solving quadratic convex separable
 knapsack problems.* Optimization Methods and Software, 1–19. [https://doi.org/10.1080/10556788.2025.2611436](https://doi.org/10.1080/10556788.2025.2611436)
@@ -44,7 +44,7 @@ https://doi.org/10.48550/arXiv.2508.20071)
 1. **Vitaliano S. Amaral, Jurandir O. Lopes, Paulo S. M. Santos,
 Sissy S. Souza.** *Hybrid Proximal Point Method with Partial Derivative-Free Structure*
 
-1. **V. S. Amaral, A. W. N. Sousa, M. V. Travagli** *APROFUNDANDO ERROS DE MEDIDA EM UMA AULA DE CAMPO DE TRIGONOMETRIA: UMA APLICAÇÃO DO CÁLCULO DIFERENCIAL NA ESTIMATIVA DE MEDIDAS INACESSÍVEIS*(2026)
+1. **V. S. Amaral, A. W. N. Sousa, M. V. Travaglia** *APROFUNDANDO ERROS DE MEDIDA EM UMA AULA DE CAMPO DE TRIGONOMETRIA: UMA APLICAÇÃO DO CÁLCULO DIFERENCIAL NA ESTIMATIVA DE MEDIDAS INACESSÍVEIS*(2026)
 
 
 
