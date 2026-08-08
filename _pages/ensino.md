@@ -31,5 +31,8 @@ Clique no link acima para ver a lista de disciplinas ministradas no ensino de p�
   
 ## Coorientações
 **Cocluídas**
-- ANTONIO WELLINGTON NEVES SOUSA. *Uso de algoritmos no ensino de geometria no ensino fundamental e médio*. 2025. Dissertação - Universidade Federal do Piauí
+- ANTONIO WELLINGTON NEVES SOUSA. *Proposta de Sequência de Conteúdos para o Ensino de
+Trigonometria no Ensino Médio: Da Abordagem Histórica às
+Aplicações e Resolução de Problema*. 2025. Dissertação - Universidade Federal do Piauí
+- ERISVALDO FERREIRA E SILVA. *Números complexos -- potências que circulam -- matrizes de rotação e equações de recorrências com soluções oscilatórias*. 2025. Dissertação - Universidade Federal do Piauí
 
