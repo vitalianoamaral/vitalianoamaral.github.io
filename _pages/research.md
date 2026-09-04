@@ -12,6 +12,8 @@ author_profile: true
 # Optimization research
 ## Published articles
 
+1. **Amaral, V. S., Andreani, R., Secchin, L. D. Silva, G. N.** *A flexible block coordinate descent method for unconstrained optimization under Hölder continuity*. Comput Optim Appl (2026). [doi](https://doi.org/10.1007/s10589-026-00827-8)
+
 1. **Amaral, V. S., A. Bortoloti, M. A. d., Lopes, J. O., Silva, G. N.** *An Adaptive Proximal Point Method for Nonsmooth and Nonconvex Optimization on Hadamard Manifolds.* J Optim Theory Appl 210, 15 (2026). [https://doi.org/10.1007/s10957-026-03046-7](https://doi.org/10.1007/s10957-026-03046-7).
 
 1. **A. Alves, V. S. Amaral, J. O. L. Silva, P. S. M. Santos and S. S. Souza.** *(2026) A Smoothing method for solving quadratic convex separable
@@ -31,7 +33,7 @@ knapsack problems.* Optimization Methods and Software, 1–19. [https://doi.org/
 ## Articles accepted for publication
 
 
-1. **V. S. Amaral, R. Andreani, L. D. Secchin, G. N. Silva** *A flexible block coordinate descent method for unconstrained optimization under Hölder continuity*. (2026). [preprint](https://optimization-online.org/2026/04/a-flexible-block-coordinate-descent-method-for-unconstrained-optimization-under-holder-continuity/)
+
 
 ## Submitted articles
 
