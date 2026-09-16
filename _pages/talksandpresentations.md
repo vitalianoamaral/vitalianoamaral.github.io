@@ -5,6 +5,9 @@ permalink: /talksandpresentations/
 author_profile: true
 ---
 ## 2026
+- **[Avanços Recentes nos Métodos de Descida Coordenada por Blocos](/files/CNMAC2026.pdf)**  
+  XLIV Congresso Nacional de Matemática Aplicada e Computacional - FCT/Unesp. *Setembro de 2026 - Presidente Prudente, SP, Brasil*
+  
 - **[Métodos de Descida Coordenada por Blocos: Avanços e Desafios]()**  
   VI Congresso Brasileiro de Jovens Pesquisadoras e Pesquisadores em Matematica Pura, Aplicada e Estatıstica - VI CBJME. *Teresina, Piauí, Brasil*
   
